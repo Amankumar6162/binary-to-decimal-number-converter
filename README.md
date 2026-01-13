@@ -19,9 +19,9 @@ This project is beginner-friendly and useful for learning number systems and bas
 - **Git & GitHub**
 
 ---
-
-## ▶️ How to Run the Program
-1. Make sure **Python** is installed on your system  
+>[!IMPORTANT]
+>## ▶️ How to Run the Program
+1. Make sure **Python** is installed on your system\
    Check using CMD :
    ```bash
     python --version
@@ -31,4 +31,5 @@ This project is beginner-friendly and useful for learning number systems and bas
 3. If not installed, download Python from:
 👉 https://www.python.org/downloads/
 
-⚠️ While installing Python, make sure to check “Add Python to PATH”.
+>[!NOTE]
+>⚠️ While installing Python, make sure to check “Add Python to PATH”.
